@@ -1,5 +1,7 @@
 import logging
 from typing import Dict
+from signals.momentum import momentum_signal
+from signals.rsi import rsi_signal
 
 # -------------------------
 # Logging setup
